@@ -16,3 +16,10 @@ FlipKart web scraping of women's dress. And save the image of product to local d
 
 Future Updates:
 - using the data to train [Attr_model](https://github.com/vishalnadagiri/AutoCaption/blob/main/AutoCaption.ipynb) to predict the attributes of the images
+
+
+```
+updates
+- headless
+
+```
