@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T07:49:28.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.6" etag="No1xC6TTJGEa8Bcl1H2f" type="github"><diagram name="Page-1" id="DEBF2DWO0z_v89HQ5bn9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-17T07:53:46.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6u9-J-5FurvQdBMJTaIf" version="21.0.6" type="github">
+  <diagram name="Page-1" id="DEBF2DWO0z_v89HQ5bn9">
+    <mxGraphModel dx="954" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="34Wr1ms0H3JXbDt_dypt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="34Wr1ms0H3JXbDt_dypt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="34Wr1ms0H3JXbDt_dypt-1" target="34Wr1ms0H3JXbDt_dypt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34Wr1ms0H3JXbDt_dypt-1" value="Fetch tick data&amp;nbsp;&lt;br&gt;from&amp;nbsp;&lt;br&gt;Trading View" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="34Wr1ms0H3JXbDt_dypt-2" value="MYSQL&lt;br&gt;DB" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="110" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
